@@ -1,6 +1,6 @@
 name: 'Cancel Previous Workflow Runs'
 description: 'Cancels all previous runs of this workflow'
-author: 'n1hility'
+author: 'Ray'
 inputs:
   token:
     description: The GITHUB_TOKEN secret of this github workflow
